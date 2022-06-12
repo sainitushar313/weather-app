@@ -6,7 +6,7 @@
 
 #### Web link 
 
- https://sachinprajapati8604.github.io/Weather_webApp/
+ https://sainitushar313/.github.io/Weather_webApp/
  
 ### Features of the project.
 
